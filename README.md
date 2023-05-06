@@ -19,8 +19,6 @@ Skills: C / C++ / Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=101rror)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=101rror&show_icons=true&count_private=true)  
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=101rror)  
 
 ![GitHub metrics](https://metrics.lecoq.io/101rror)  
