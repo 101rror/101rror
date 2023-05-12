@@ -1,6 +1,5 @@
 ### Hi there 👋, Mr. Error
 #### I'm a Programmer
-![I'm a Programmer](https://www.bing.com/images/search?view=detailV2&ccid=ug8ok4DK&id=C880E09126B0CC4EE07F8D0286C0273F7A94B4FA&thid=OIP.ug8ok4DKN4rfRyn5vvh7JgHaEK&mediaurl=https%3a%2f%2fc.wallhere.com%2fphotos%2f57%2f5c%2fTanjiro_Kamado_Kimetsu_no_Yaiba-1981811.jpg!d&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.ba0f289380ca378adf4729f9bef87b26%3frik%3d%252brSUej8nwIYCjQ%26pid%3dImgRaw%26r%3d0&exph=900&expw=1600&q=tanjiro+camando+cover+size&simid=608022659252631113&FORM=IRPRST&ck=3516AE59EB099A00BBC0391D74074005&selectedIndex=19&ajaxhist=0&ajaxserp=0)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
