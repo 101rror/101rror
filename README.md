@@ -1,4 +1,3 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mr. Error</h1>
 <h3 align="center">A Passionate Problem Solver</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
