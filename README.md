@@ -41,4 +41,3 @@
 
 ![](https://leetcard.jacoblin.cool/101rror?ext=contest)
 ![](https://leetcard.jacoblin.cool/101rror?ext=heatmap)
-![Leetcode Stats](https://leetcard.101rror.cool/lapor?ext=contest)
