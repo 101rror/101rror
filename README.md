@@ -4,15 +4,15 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 🤝 I’m looking for help with **Problem Solving**
+- 🤝 I’m looking for help with **DP**
 
-- 👨‍💻 All of my projects are available at [https://github.com/101rror](https://github.com/101rror)
+- 👨‍💻 All of my projects are available at [101rror](https://github.com/101rror)
 
 - 💬 Ask me about **Problem Solving**
 
 - 📫 How to reach me **mr.101rror@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/101rror](https://github.com/101rror)
+- 📄 Know about my experiences [101rror](https://github.com/101rror)
 
 - ⚡ Fun fact **I think I'm Funny**
 
