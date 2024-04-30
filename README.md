@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [101rror](https://github.com/101rror)
 
-- ⚡ Fun fact **I think I'm Funny**
+- ⚡ Fun fact **I'm Lazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
