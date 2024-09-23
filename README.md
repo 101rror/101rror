@@ -35,6 +35,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=101rror&show_icons=true&locale=en&layout=compact" alt="101rror" /></p>
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/101rror/github-readme-stats)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=101rror&" alt="101rror" /></p>
 
 
