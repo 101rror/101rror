@@ -35,7 +35,17 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=101rror&show_icons=true&locale=en&layout=compact" alt="101rror" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=101rror&" alt="101rror" /></p>
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 
 ![](https://leetcard.jacoblin.cool/101rror?ext=contest)
