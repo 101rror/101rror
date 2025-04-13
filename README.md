@@ -40,3 +40,10 @@
 
 ![](https://leetcard.jacoblin.cool/101rror?ext=contest)
 ![](https://leetcard.jacoblin.cool/101rror?ext=heatmap)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/101rror/101rror/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/101rror/101rror/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/101rror/101rror/output/github-snake.svg" />
+</picture>
