@@ -96,14 +96,7 @@
 
 
 
-<h3 align="left">Visitor :</h3>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/101rror/count.svg?"  />
-</div>
-<br>
-
-
+<h3 align="left">Contribution Playground :</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/101rror/101rror/output/github-snake-dark.svg" />
