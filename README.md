@@ -21,7 +21,7 @@ class SalmanAhmed:
         ]
 
         self.frontend = [
-            "JavaScript", "React", "Next.js", "Tailwind CSS"
+            "JavaScript", "React.js", "Next.js", "Tailwind CSS"
         ]
 
         self.databases = [
@@ -78,10 +78,6 @@ print(me.__dict__)
   <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white"/>
 </a>
 
-<a href="https://www.topcoder.com/members/101rror" target="_blank">
-  <img src="https://img.shields.io/badge/TopCoder-EA8B1F?style=for-the-badge&logo=topcoder&logoColor=white"/>
-</a>
-
 <a href="https://discord.gg/101rror" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
@@ -106,7 +102,7 @@ print(me.__dict__)
 ## 🛢️ Databases
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=sqlite,postgresql,mysql" />
 </div>
 
 ## 🛠️ Tools & Platforms
