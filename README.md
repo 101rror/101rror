@@ -88,9 +88,7 @@ print(me.__dict__)
 
 </div>
 
-<br>
 ---
-
 # 💻 Tech Stack
 
 ## 🚀 Languages
