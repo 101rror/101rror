@@ -1,105 +1,212 @@
-###
-<h1 align="center">Hi 👋, I'm Salman</h1>
-<h3 align="center">A Passionate Programmer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-
-- 🌱 I’m currently learning **DSA**
-
-- 🤝 I’m looking for help with **DP**
-
-- 👨‍💻 All of my projects are available at [101rror](https://github.com/101rror)
-
-- 💬 Ask me about **Problem Solving**
-
-- 📫 How to reach me **mr.101rror@gmail.com**
-
-- 📄 Know about my experiences [101rror](https://www.linkedin.com/in/101rror/)
-
-- ⚡ Fun fact **I'm Lazy**
-<br>
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/101rror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="101rror" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/101rror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="101rror" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/101rror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="101rror" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/101rror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="101rror" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mr_101rror" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mr_101rror" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/101rror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="101rror" height="30" width="40" /></a>
-<a href="https://kaggle.com/101rror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="101rror" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/101rror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="101rror" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/101rror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="101rror" height="30" width="40" /></a>
-<a href="https://discord.gg/101rror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="101rror" height="30" width="40" /></a>
-</p>
-<br>
-
-
-<h3 align="left">Languages and Tools :</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-</div>
-<br>
-
-
+<h1 align="center">Hi 👋, I'm Salman Ahmed</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=101rror&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=101rror&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=101rror&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=101rror&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=101rror&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Fullstack+Developer;Competitive+Programmer;Django+Developer;DSA+Enthusiast;Backend+Engineer;Problem+Solver" 
+    alt="Typing SVG" 
+  />
 </div>
+
+---
+## 🚀 About Me
+
+```python
+class SalmanAhmed:
+    def __init__(self):
+        self.role = "Full Stack Developer"
+        self.username = "101rror"
+
+        self.backend = [
+            "Python", "Django", "Django REST Framework"
+        ]
+
+        self.frontend = [
+            "JavaScript", "React", "Next.js", "Tailwind CSS"
+        ]
+
+        self.databases = [
+            "PostgreSQL", "SQLite"
+        ]
+
+        self.currently_learning = [
+            "Django", "System Design"
+        ]
+
+        self.passion = "Problem Solving"
+        self.fun_fact = "I'm Lazy 😴"
+
+
+me = SalmanAhmed()
+print(me.__dict__)
+```
+
+
+---
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/101rror" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/101rror" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/101rror" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/mr_101rror" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-964B00?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/101rror" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/101rror" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://kaggle.com/101rror" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerearth.com/101rror" target="_blank">
+  <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white"/>
+</a>
+
+<a href="https://www.topcoder.com/members/101rror" target="_blank">
+  <img src="https://img.shields.io/badge/TopCoder-EA8B1F?style=for-the-badge&logo=topcoder&logoColor=white"/>
+</a>
+
+<a href="https://discord.gg/101rror" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+---
+
+# 💻 Tech Stack
+
+## 🚀 Languages
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,cs" />
+</div>
+
+## 🌐 Frontend & Backend
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,django,tailwind" />
+</div>
+
+## 🛢️ Databases
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+</div>
+
+## 🛠️ Tools & Platforms
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,notion,vscode,pycharm,wordpress,vercel,render,chatgpt,copilot,cursor,jupyter,canva" />
+</div>
+
 <br>
 
+---
 
+# 📊 GitHub Analytics
 
-<h3 align="left">Contribution Playground :</h3>
+<div align="center">
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=101rror&theme=tokyonight&hide_border=true" height="170" />
+
+</div>
+
+<br>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=101rror&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+
+</div>
+
+<br>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=101rror&theme=react-dark&hide_border=true&area=true" width="95%" />
+
+</div>
+
+<br>
+
+---
+
+# 🐍 Contribution Playground
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/101rror/101rror/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/101rror/101rror/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/101rror/101rror/output/github-snake.svg" />
 </picture>
+
+</div>
+
+<br>
+
+---
+
+# 🔥 Current Goals
+
+```python
+goals_2026 = {
+    "competitive_programming": [
+        "Master Dynamic Programming",
+        "Strengthen Problem Solving Skills",
+        "Achieve Consistency in CP"
+    ],
+
+    "development": [
+        "Build Scalable Django Applications",
+        "Develop Real-World Projects",
+        "Improve Backend Architecture Skills"
+    ],
+
+    "growth": [
+        "Learn System Design Fundamentals",
+        "Contribute to Open Source",
+        "Explore New Technologies"
+    ]
+}
+```
+
+---
+
+<div align="center">
+
+### ⚡ Code • Debug • Repeat
+
+<img src="https://komarev.com/ghpvc/?username=101rror&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+
+</div>
