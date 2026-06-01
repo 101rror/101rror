@@ -131,6 +131,7 @@ print(me.__dict__)
 
 ---
 
+<!--
 # 🏆 GitHub Trophies
 
 <div align="center">
@@ -142,6 +143,7 @@ print(me.__dict__)
 <br>
 
 ---
+-->
 
 # 📈 Contribution Graph
 
