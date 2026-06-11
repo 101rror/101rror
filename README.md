@@ -90,7 +90,7 @@ print(me.__dict__)
 ## 🚀 Languages
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,cs" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,cs,go" />
 </div>
 
 ## 🌐 Frontend & Backend
