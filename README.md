@@ -96,7 +96,7 @@ print(me.__dict__)
 ## 🌐 Frontend & Backend
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,django,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,django,drf" />
 </div>
 
 ## 🛢️ Databases
