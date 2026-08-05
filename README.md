@@ -70,12 +70,8 @@ print(me.__dict__)
   <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="https://kaggle.com/101rror" target="_blank">
+<a href="https://www.kaggle.com/mr101rror" target="_blank">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerearth.com/101rror" target="_blank">
-  <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white"/>
 </a>
 
 <a href="https://discord.gg/101rror" target="_blank">
